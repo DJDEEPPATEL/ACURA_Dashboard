@@ -25,15 +25,15 @@ The standout feature of this build is the **Exterior Colour selector** — when 
 
 See `/screenshots` for full-page views of the dashboards.
 
-![Home](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/Home.png)
+![Home](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/screenshots/Home.png)
 
-![MDX](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/mdx.png)
+![MDX](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/screenshots/mdx.png)
 
-![NSX](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/nsx.png)
+![NSX](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/screenshots/nsx.png)
 
-![Integra](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/integra.png)
+![Integra](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/screenshots/integra.png)
 
-![zdx](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/zdx.png)
+![zdx](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/screenshots/zdx.png)
 
 ## 🎯 Skills Demonstrated
 
