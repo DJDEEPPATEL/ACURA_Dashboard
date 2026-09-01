@@ -23,8 +23,12 @@ The standout feature of this build is the **Exterior Colour selector** — when 
 - **Power Query** — data transformation and cleanup
 - Data model built around a central `Sales_Data_Master` table with dimensions for dealership, province, model, trim, exterior color, and upgrades
 
-![Summary Page](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/Home.png)
-![Summary Page](https://github.com/DJDEEPPATEL/Healthcare-Dashboard/blob/main/Home_Page.png)
+![Home](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/Home.png)
+![MDX](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/mdx.png)
+![NSX](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/nsx.png)
+![Integra](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/integra.png)
+![zdx](https://github.com/DJDEEPPATEL/ACURA_Dashboard/blob/main/zdx.png)
+
 See `/screenshots` for full-page views of the dashboards.
 
 ## Notes
