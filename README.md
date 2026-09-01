@@ -39,6 +39,6 @@ See `/screenshots` for full-page views of the dashboards.
 
 All sales data in this project is synthetically generated for demonstration and portfolio purposes and does not reflect real Acura sales figures.
 
-## Author
-
-Built by [Your Name] as a data visualization / Power BI portfolio project.
+👤 Author
+Deep Patel
+https://www.linkedin.com/in/deep-patel-msc-cs-0aa383200/
