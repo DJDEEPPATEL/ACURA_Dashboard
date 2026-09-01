@@ -23,9 +23,9 @@ The standout feature of this build is the **Exterior Colour selector** — when 
 - **Power Query** — data transformation and cleanup
 - Data model built around a central `Sales_Data_Master` table with dimensions for dealership, province, model, trim, exterior color, and upgrades
 
-## Screenshots
 
-See `/screenshots` for full-page views of the Integra and MDX dashboards.
+
+See `/screenshots` for full-page views of the dashboards.
 
 ## Notes
 
