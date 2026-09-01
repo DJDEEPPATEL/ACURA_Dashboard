@@ -37,11 +37,11 @@ See `/screenshots` for full-page views of the dashboards.
 
 ## 🎯 Skills Demonstrated
 
-Power Query data shaping and modeling
-DAX measures for dynamic KPIs and conditional formatting
-Cross-visual interactivity and slicer-driven theming
-Multi-page dashboard UX/layout design
-
+- **Power Query data shaping and modeling** 
+- **DAX measures for dynamic KPIs and conditional formatting** 
+- **Cross-visual interactivity and slicer-driven theming** 
+- **Multi-page dashboard UX/layout design**
+  
 ## ⚠️ Notes
 
 All sales data in this project is synthetically generated for demonstration and portfolio purposes and does not reflect real Acura sales figures.
